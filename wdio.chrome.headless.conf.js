@@ -2,7 +2,7 @@ const {config} = require("./wdio.conf");
 constpath = require("path");
 
 
-constchromeHeadlessConfig = {
+const chromeHeadlessConfig = {
     ...config,
     services: ["chromedriver"],
     capabilities: [{
