@@ -1,0 +1,179 @@
+{
+  "uid" : "6225f611cd2fcf7d",
+  "name" : "Enterpriese cloud/server",
+  "fullName" : "GitHub site.Enterpriese cloud/server",
+  "historyId" : "e2f522a4a8bdbdca50b344cf013050b6",
+  "time" : {
+    "start" : 1648752628938,
+    "stop" : 1648752639713,
+    "duration" : 10775
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "name" : "Screenshot",
+      "type" : "image/png",
+      "size" : 0
+    }, {
+      "name" : "Screenshot",
+      "type" : "image/png",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enterpriese cloud/server"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c48cc8d04f226b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751599938,
+        "stop" : 1648751610154,
+        "duration" : 10216
+      }
+    }, {
+      "uid" : "10bf1ca1b8fe8263",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750932282,
+        "stop" : 1648750945319,
+        "duration" : 13037
+      }
+    }, {
+      "uid" : "fb455b6d1b0d5d94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750480813,
+        "stop" : 1648750493865,
+        "duration" : 13052
+      }
+    }, {
+      "uid" : "586551f2edadfede",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747906754,
+        "stop" : 1648747923980,
+        "duration" : 17226
+      }
+    }, {
+      "uid" : "d4a31d4b986843d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747305013,
+        "stop" : 1648747316087,
+        "duration" : 11074
+      }
+    }, {
+      "uid" : "96d3535fafc61f42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746760245,
+        "stop" : 1648746772422,
+        "duration" : 12177
+      }
+    }, {
+      "uid" : "c08920a70a69c848",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648726960551,
+        "stop" : 1648726970375,
+        "duration" : 9824
+      }
+    }, {
+      "uid" : "daacb7adf9da1e9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636593763,
+        "stop" : 1648636603306,
+        "duration" : 9543
+      }
+    }, {
+      "uid" : "366344f7dce4c027",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636312196,
+        "stop" : 1648636321666,
+        "duration" : 9470
+      }
+    }, {
+      "uid" : "d6caa403e4fc2f51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636041276,
+        "stop" : 1648636050976,
+        "duration" : 9700
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "99e2b8d2eab1fd14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648636593763,
+          "stop" : 1648636603306,
+          "duration" : 9543
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6225f611cd2fcf7d.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

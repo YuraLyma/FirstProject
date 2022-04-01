@@ -1,0 +1,50 @@
+{
+  "uid" : "fed5e27fb370c837",
+  "name" : "PageObjects -- Task 8-9",
+  "fullName" : "webdriver.io page.PageObjects -- Task 8-9",
+  "historyId" : "615d230ea088b7b9334cbe900cbc7018",
+  "time" : {
+    "start" : 1648636554636,
+    "stop" : 1648636554636,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "PageObjects -- Task 8-9"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fed5e27fb370c837.json",
+  "parameterValues" : [ ]
+}

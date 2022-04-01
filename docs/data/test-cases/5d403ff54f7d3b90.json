@@ -1,0 +1,162 @@
+{
+  "uid" : "5d403ff54f7d3b90",
+  "name" : "Search field",
+  "fullName" : "GitHub site.Search field",
+  "historyId" : "d2aa17d1d85abbc1fe88740275253f50",
+  "time" : {
+    "start" : 1648752738466,
+    "stop" : 1648752751554,
+    "duration" : 13088
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-11"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search field"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d87d8e53a4352c28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751665517,
+        "stop" : 1648751673686,
+        "duration" : 8169
+      }
+    }, {
+      "uid" : "87aeaec44018d03b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751002671,
+        "stop" : 1648751010616,
+        "duration" : 7945
+      }
+    }, {
+      "uid" : "25c95ca82f3f69db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750550786,
+        "stop" : 1648750560456,
+        "duration" : 9670
+      }
+    }, {
+      "uid" : "8832bfa1a39dfe79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747983567,
+        "stop" : 1648748006975,
+        "duration" : 23408
+      }
+    }, {
+      "uid" : "12d4daac8b3fff33",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//a[contains(@href, \"TypeScript\")]\" because element wasn't found",
+      "time" : {
+        "start" : 1648747376601,
+        "stop" : 1648747390764,
+        "duration" : 14163
+      }
+    }, {
+      "uid" : "c0bac10fe0f5e939",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746839535,
+        "stop" : 1648746856718,
+        "duration" : 17183
+      }
+    }, {
+      "uid" : "6074d225f9bb40b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648727034552,
+        "stop" : 1648727043199,
+        "duration" : 8647
+      }
+    }, {
+      "uid" : "f4d62d48120b10e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636669191,
+        "stop" : 1648636677049,
+        "duration" : 7858
+      }
+    }, {
+      "uid" : "6bc5a12c84c3bcca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636381631,
+        "stop" : 1648636389862,
+        "duration" : 8231
+      }
+    }, {
+      "uid" : "6eb83854f7390d74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636111338,
+        "stop" : 1648636119138,
+        "duration" : 7800
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a521c23f8bac8a92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648636669191,
+          "stop" : 1648636677049,
+          "duration" : 7858
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5d403ff54f7d3b90.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
