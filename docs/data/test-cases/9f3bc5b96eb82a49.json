@@ -1,0 +1,177 @@
+{
+  "uid" : "9f3bc5b96eb82a49",
+  "name" : "Forgor password (negative)",
+  "fullName" : "GitHub site.Forgor password (negative)",
+  "historyId" : "75052c7a1ba9429a694585460569e66e",
+  "time" : {
+    "start" : 1648752650376,
+    "stop" : 1648752657390,
+    "duration" : 7014
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ffba2acd9d5da83c",
+      "name" : "Screenshot",
+      "source" : "ffba2acd9d5da83c.png",
+      "type" : "image/png",
+      "size" : 32976
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Forgor password (negative)"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8ec85d2f37658ec5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751619615,
+        "stop" : 1648751623737,
+        "duration" : 4122
+      }
+    }, {
+      "uid" : "4354a99a8066b10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750954626,
+        "stop" : 1648750958754,
+        "duration" : 4128
+      }
+    }, {
+      "uid" : "8794d324f0afa3a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750503860,
+        "stop" : 1648750509122,
+        "duration" : 5262
+      }
+    }, {
+      "uid" : "639a281621076172",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747934262,
+        "stop" : 1648747938373,
+        "duration" : 4111
+      }
+    }, {
+      "uid" : "dba9e530ea8e6fef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747325831,
+        "stop" : 1648747329798,
+        "duration" : 3967
+      }
+    }, {
+      "uid" : "bcf74ae0b6e5f149",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746782683,
+        "stop" : 1648746787051,
+        "duration" : 4368
+      }
+    }, {
+      "uid" : "6cbe08800db39ffc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648726980845,
+        "stop" : 1648726985057,
+        "duration" : 4212
+      }
+    }, {
+      "uid" : "b6ab49e0412088da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636613239,
+        "stop" : 1648636617284,
+        "duration" : 4045
+      }
+    }, {
+      "uid" : "fede770214b1eddd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636331649,
+        "stop" : 1648636335809,
+        "duration" : 4160
+      }
+    }, {
+      "uid" : "a599419209487919",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636060802,
+        "stop" : 1648636065014,
+        "duration" : 4212
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "f3b7587b4606df5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648636613239,
+          "stop" : 1648636617284,
+          "duration" : 4045
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9f3bc5b96eb82a49.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

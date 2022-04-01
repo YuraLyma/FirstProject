@@ -5,20 +5,20 @@
     "name" : "webdriver.io page",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 7,
-      "passed" : 8,
+      "passed" : 14,
       "unknown" : 0,
-      "total" : 16
+      "total" : 23
     }
   }, {
     "uid" : "2fcbcc86206d6d43e6bff2a6766f00c1",
     "name" : "GitHub site",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 22,
+      "passed" : 21,
       "unknown" : 0,
       "total" : 22
     }

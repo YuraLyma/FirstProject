@@ -1,0 +1,169 @@
+{
+  "uid" : "7351f945c48302d8",
+  "name" : "addValue test",
+  "fullName" : "addValue method Test.addValue test",
+  "historyId" : "c27894db4bd408970f0914d6190ef53",
+  "time" : {
+    "start" : 1648752456763,
+    "stop" : 1648752461589,
+    "duration" : 4826
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 11,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "addValue method Test"
+  }, {
+    "name" : "testClass",
+    "value" : "addValue method Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "addValue test"
+  }, {
+    "name" : "package",
+    "value" : "addValue method Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aeab67a375f06da2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751505742,
+        "stop" : 1648751509197,
+        "duration" : 3455
+      }
+    }, {
+      "uid" : "d5942aacd72c351e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750820291,
+        "stop" : 1648750823878,
+        "duration" : 3587
+      }
+    }, {
+      "uid" : "d4646a2862579cc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750379351,
+        "stop" : 1648750383539,
+        "duration" : 4188
+      }
+    }, {
+      "uid" : "a1535766ffc5799f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747766497,
+        "stop" : 1648747770338,
+        "duration" : 3841
+      }
+    }, {
+      "uid" : "f2e5d027f753a45a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747180143,
+        "stop" : 1648747184461,
+        "duration" : 4318
+      }
+    }, {
+      "uid" : "dfc06c59975b4f74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746697296,
+        "stop" : 1648746701566,
+        "duration" : 4270
+      }
+    }, {
+      "uid" : "b0b13c4fecc3eb09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648726899222,
+        "stop" : 1648726903388,
+        "duration" : 4166
+      }
+    }, {
+      "uid" : "658e21b474cad8c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636538709,
+        "stop" : 1648636542390,
+        "duration" : 3681
+      }
+    }, {
+      "uid" : "f0c1413aa1945f76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636256542,
+        "stop" : 1648636259819,
+        "duration" : 3277
+      }
+    }, {
+      "uid" : "6f726068698b22db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648635983456,
+        "stop" : 1648635987314,
+        "duration" : 3858
+      }
+    }, {
+      "uid" : "1cac66a94df59b24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648635665875,
+        "stop" : 1648635670221,
+        "duration" : 4346
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d5bb059b1ce54a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648636538709,
+          "stop" : 1648636542390,
+          "duration" : 3681
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7351f945c48302d8.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
