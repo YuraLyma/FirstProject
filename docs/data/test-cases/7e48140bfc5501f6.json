@@ -1,0 +1,71 @@
+{
+  "uid" : "7e48140bfc5501f6",
+  "name" : "Sign in on GitHub",
+  "fullName" : "GitHub site.Sign in on GitHub",
+  "historyId" : "b9a76a35bd7f2faa5d2f17ec96b2dc32",
+  "time" : {
+    "start" : 1648809461497,
+    "stop" : 1648809467500,
+    "duration" : 6003
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sign in on GitHub"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81da5cc6eedba7e8",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \".js-feature-preview-indicator-container summary.Header-link\" because element wasn't found",
+      "time" : {
+        "start" : 1648809439782,
+        "stop" : 1648809452227,
+        "duration" : 12445
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e48140bfc5501f6.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

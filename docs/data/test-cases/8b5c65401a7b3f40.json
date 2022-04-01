@@ -1,0 +1,82 @@
+{
+  "uid" : "8b5c65401a7b3f40",
+  "name" : "Enterpriese cloud/server",
+  "fullName" : "GitHub site.Enterpriese cloud/server",
+  "historyId" : "e2f522a4a8bdbdca50b344cf013050b6",
+  "time" : {
+    "start" : 1648636041276,
+    "stop" : 1648636050976,
+    "duration" : 9700
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3fa67969c8d67ced",
+      "name" : "Screenshot",
+      "source" : "3fa67969c8d67ced.png",
+      "type" : "image/png",
+      "size" : 41046
+    }, {
+      "uid" : "6fb0c4e07192a6a3",
+      "name" : "Screenshot",
+      "source" : "6fb0c4e07192a6a3.png",
+      "type" : "image/png",
+      "size" : 56730
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enterpriese cloud/server"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b5c65401a7b3f40.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

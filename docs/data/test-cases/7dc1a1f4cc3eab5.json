@@ -1,0 +1,183 @@
+{
+  "uid" : "7dc1a1f4cc3eab5",
+  "name" : "Enterpriese cloud/server",
+  "fullName" : "GitHub site.Enterpriese cloud/server",
+  "historyId" : "e2f522a4a8bdbdca50b344cf013050b6",
+  "time" : {
+    "start" : 1648752628938,
+    "stop" : 1648752639713,
+    "duration" : 10775
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b237ec85842cf17b",
+      "name" : "Screenshot",
+      "source" : "b237ec85842cf17b.png",
+      "type" : "image/png",
+      "size" : 44063
+    }, {
+      "uid" : "1636dbce31441ceb",
+      "name" : "Screenshot",
+      "source" : "1636dbce31441ceb.png",
+      "type" : "image/png",
+      "size" : 71548
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enterpriese cloud/server"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "131d9ed9a82759d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751599938,
+        "stop" : 1648751610154,
+        "duration" : 10216
+      }
+    }, {
+      "uid" : "c5c0a26d6117b712",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750932282,
+        "stop" : 1648750945319,
+        "duration" : 13037
+      }
+    }, {
+      "uid" : "bf491d9f7b42b87f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750480813,
+        "stop" : 1648750493865,
+        "duration" : 13052
+      }
+    }, {
+      "uid" : "800da289fdcc6fe1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747906754,
+        "stop" : 1648747923980,
+        "duration" : 17226
+      }
+    }, {
+      "uid" : "ff429eb1e176361b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747305013,
+        "stop" : 1648747316087,
+        "duration" : 11074
+      }
+    }, {
+      "uid" : "57e02f1120e83f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746760245,
+        "stop" : 1648746772422,
+        "duration" : 12177
+      }
+    }, {
+      "uid" : "811cd795f7299bb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648726960551,
+        "stop" : 1648726970375,
+        "duration" : 9824
+      }
+    }, {
+      "uid" : "46731235f4296054",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636593763,
+        "stop" : 1648636603306,
+        "duration" : 9543
+      }
+    }, {
+      "uid" : "4e77c53a4a2ba2ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636312196,
+        "stop" : 1648636321666,
+        "duration" : 9470
+      }
+    }, {
+      "uid" : "8b5c65401a7b3f40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636041276,
+        "stop" : 1648636050976,
+        "duration" : 9700
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "99e2b8d2eab1fd14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648636593763,
+          "stop" : 1648636603306,
+          "duration" : 9543
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7dc1a1f4cc3eab5.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
