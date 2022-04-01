@@ -1,0 +1,68 @@
+{
+  "uid" : "91d78931bddbe669",
+  "name" : "Registration (sign up, body) on GitHub (negative)",
+  "fullName" : "GitHub site.Registration (sign up, body) on GitHub (negative)",
+  "historyId" : "561678e138877f6b6fda6d41998383c6",
+  "time" : {
+    "start" : 1648807038296,
+    "stop" : 1648807043199,
+    "duration" : 4903
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "directory (/home/runner/work/FirstProject/FirstProject/test/resources) doesn't exist",
+  "statusTrace" : "Error: directory (/home/runner/work/FirstProject/FirstProject/test/resources) doesn't exist\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Context.<anonymous> (/home/runner/work/FirstProject/FirstProject/test/specs/github.bodysignup.spec.js:17:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registration (sign up, body) on GitHub (negative)"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "91d78931bddbe669.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

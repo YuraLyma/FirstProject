@@ -1,0 +1,68 @@
+{
+  "uid" : "cbb6bfe66eefb9bb",
+  "name" : "Enterpriese cloud/server",
+  "fullName" : "GitHub site.Enterpriese cloud/server",
+  "historyId" : "48f4a92cb3ca67ab9c9b3b30cf8e2ef2",
+  "time" : {
+    "start" : 1648807050913,
+    "stop" : 1648807053605,
+    "duration" : 2692
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "directory (/home/runner/work/FirstProject/FirstProject/test/resources) doesn't exist",
+  "statusTrace" : "Error: directory (/home/runner/work/FirstProject/FirstProject/test/resources) doesn't exist\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Context.<anonymous> (/home/runner/work/FirstProject/FirstProject/test/specs/github.enterprisecloudserver.spec.js:18:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enterpriese cloud/server"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cbb6bfe66eefb9bb.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

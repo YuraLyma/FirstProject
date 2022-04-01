@@ -1,0 +1,60 @@
+{
+  "uid" : "bdc0c7924b728cb6",
+  "name" : "Test suite -- Task 5 / Test case 3",
+  "fullName" : "webdriver.io page.Test suite -- Task 5 / Test case 3",
+  "historyId" : "66830885e7efcd86c4f6857fd5d3bf6b",
+  "time" : {
+    "start" : 1648750409372,
+    "stop" : 1648750411860,
+    "duration" : 2488
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test suite -- Task 5 / Test case 3"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdc0c7924b728cb6.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

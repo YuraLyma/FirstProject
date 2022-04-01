@@ -1,0 +1,70 @@
+{
+  "uid" : "f62aad7eadac1f40",
+  "name" : "Tpe to console log careers",
+  "fullName" : "GitHub site.Tpe to console log careers",
+  "historyId" : "b4b913a0d4c10b5c37fdb321248ee0f3",
+  "time" : {
+    "start" : 1648807047841,
+    "stop" : 1648807050039,
+    "duration" : 2198
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Tpe to console log careers"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c4969f08f42123f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648807032625,
+        "stop" : 1648807037413,
+        "duration" : 4788
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f62aad7eadac1f40.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}
