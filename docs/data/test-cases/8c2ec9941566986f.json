@@ -1,0 +1,94 @@
+{
+  "uid" : "8c2ec9941566986f",
+  "name" : "Registration (sign up, header) on GitHub",
+  "fullName" : "GitHub site.Registration (sign up, header) on GitHub",
+  "historyId" : "a2434f275e045382279aa2b71346aa96",
+  "time" : {
+    "start" : 1648636630548,
+    "stop" : 1648636650362,
+    "duration" : 19814
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c151be3d81fb8301",
+      "name" : "Screenshot",
+      "source" : "c151be3d81fb8301.png",
+      "type" : "image/png",
+      "size" : 121070
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-8"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registration (sign up, header) on GitHub"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "48f15a4669dcfe3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636348533,
+        "stop" : 1648636360067,
+        "duration" : 11534
+      }
+    }, {
+      "uid" : "cc4e1939e1b24626",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636077858,
+        "stop" : 1648636089204,
+        "duration" : 11346
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c2ec9941566986f.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

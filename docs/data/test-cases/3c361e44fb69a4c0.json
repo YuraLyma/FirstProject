@@ -1,0 +1,94 @@
+{
+  "uid" : "3c361e44fb69a4c0",
+  "name" : "Registration (sign up, body) on GitHub (positive)",
+  "fullName" : "GitHub site.Registration (sign up, body) on GitHub (positive)",
+  "historyId" : "4654c2e00fd0a6c022b29f851d147003",
+  "time" : {
+    "start" : 1648636576657,
+    "stop" : 1648636582722,
+    "duration" : 6065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f8cec7d891891eea",
+      "name" : "Screenshot",
+      "source" : "f8cec7d891891eea.png",
+      "type" : "image/png",
+      "size" : 124584
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registration (sign up, body) on GitHub (positive)"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8f6e68eda0849daa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636294695,
+        "stop" : 1648636300925,
+        "duration" : 6230
+      }
+    }, {
+      "uid" : "32b3f11073bfe7f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636022899,
+        "stop" : 1648636028853,
+        "duration" : 5954
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c361e44fb69a4c0.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

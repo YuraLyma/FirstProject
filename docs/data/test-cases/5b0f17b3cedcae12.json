@@ -1,0 +1,111 @@
+{
+  "uid" : "5b0f17b3cedcae12",
+  "name" : "Search field",
+  "fullName" : "GitHub site.Search field",
+  "historyId" : "d2aa17d1d85abbc1fe88740275253f50",
+  "time" : {
+    "start" : 1648751665517,
+    "stop" : 1648751673686,
+    "duration" : 8169
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-11"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search field"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7b30d5ab4aea1bec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751002671,
+        "stop" : 1648751010616,
+        "duration" : 7945
+      }
+    }, {
+      "uid" : "dc71cc97e32fb64b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750550786,
+        "stop" : 1648750560456,
+        "duration" : 9670
+      }
+    }, {
+      "uid" : "bc9cdb44f325b0f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747983567,
+        "stop" : 1648748006975,
+        "duration" : 23408
+      }
+    }, {
+      "uid" : "c40a4132adf79e0e",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//a[contains(@href, \"TypeScript\")]\" because element wasn't found",
+      "time" : {
+        "start" : 1648747376601,
+        "stop" : 1648747390764,
+        "duration" : 14163
+      }
+    }, {
+      "uid" : "7870b0946c30acee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746839535,
+        "stop" : 1648746856718,
+        "duration" : 17183
+      }
+    }, {
+      "uid" : "760cf3f794076d43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648727034552,
+        "stop" : 1648727043199,
+        "duration" : 8647
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b0f17b3cedcae12.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
