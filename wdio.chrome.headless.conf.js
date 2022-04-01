@@ -9,7 +9,12 @@ const chromeHeadlessConfig = {
     maxInstances:2,
     browserName:"chrome",
                 'goog:chromeOptions': {
-                    args: ['--headless', '--start-maximized', '--no-sandbox', '--disable-gpu', '--window-size=1280,800', '--allow-insecure-localhost']
+                    args: ['--headless', 
+                           '--start-maximized', 
+                           '--no-sandbox', 
+                           '--disable-gpu', 
+                           '--window-size=1366,768', 
+                           '--allow-insecure-localhost']
                             },
                     }],
     logLevel:'warn',
