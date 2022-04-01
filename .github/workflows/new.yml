@@ -50,5 +50,5 @@ jobs:
           source-directory: 'docs'
           destination-github-username: 'YuraLyma' # Your username
           destination-repository-name: 'FirstProject' # Name of your repo
-          user-email: 'yura.lyma@gmail.com' # Your email
+          user-email: yura.lyma@gmail.com # Your email
           target-branch: gh-paged
