@@ -1,0 +1,103 @@
+{
+  "uid" : "fd6853f23a8d498c",
+  "name" : "Test suite -- Task 5 / Test case 5",
+  "fullName" : "webdriver.io page.Test suite -- Task 5 / Test case 5",
+  "historyId" : "431224bd2d0e136309eeadba0dcceb8e",
+  "time" : {
+    "start" : 1648752522802,
+    "stop" : 1648752567962,
+    "duration" : 45160
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test suite -- Task 5 / Test case 5"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a3bde595a12e7f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751537505,
+        "stop" : 1648751556261,
+        "duration" : 18756
+      }
+    }, {
+      "uid" : "a4d9bab73d189fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750853251,
+        "stop" : 1648750890043,
+        "duration" : 36792
+      }
+    }, {
+      "uid" : "cf6bc32f7b6bd6bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750415507,
+        "stop" : 1648750432206,
+        "duration" : 16699
+      }
+    }, {
+      "uid" : "723efffae7a7cabe",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 60000ms exceeded. The execution in the test \"webdriver.io page Test suite -- Task 5 / Test case 5\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\y\\Desktop\\FirstProject\\test\\specs\\example.e2e.spec.js)",
+      "time" : {
+        "start" : 1648747799715,
+        "stop" : 1648747859739,
+        "duration" : 60024
+      }
+    }, {
+      "uid" : "acd1df6a5d483ac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747217694,
+        "stop" : 1648747264716,
+        "duration" : 47022
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd6853f23a8d498c.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
