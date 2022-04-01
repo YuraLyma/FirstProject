@@ -38,17 +38,17 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         if: always()
         with:
-          branch: gh-pages # The branch the action should deploy to.
+          branch: gh-paged # The branch the action should deploy to.
           folder: allure-report # The folder the action should deploy.
           target-folder: docs
       - name: Pushes docs to another repository
         uses: cpina/github-action-push-to-another-repository@v1.3
         if: always()
         env:
-          API_TOKEN_GITHUB: ${{ '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' }} # Instruction where to get token is below
+          API_TOKEN_GITHUB: ${{ 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 }} # Instruction where to get token is below
         with:
           source-directory: docs
-          destination-github-username: 'YuraLyma' # Your username
-          destination-repository-name: 'FirstProject' # Name of your repo
-          user-email: 'yura.lyma@gmail.com' # Your email
-          target-branch: testbranch
+          destination-github-username: YuraLyma # Your username
+          destination-repository-name: FirstProject # Name of your repo
+          user-email: yura.lyma@gmail.com # Your email
+          target-branch: gh-paged
