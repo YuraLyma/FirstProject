@@ -1,0 +1,175 @@
+{
+  "uid" : "80aedecf49726ab0",
+  "name" : "Forgor password (positive)",
+  "fullName" : "GitHub site.Forgor password (positive)",
+  "historyId" : "51a4d915f467bec24bb5e3bee481f806",
+  "time" : {
+    "start" : 1648752641864,
+    "stop" : 1648752650375,
+    "duration" : 8511
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "name" : "Screenshot",
+      "type" : "image/png",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Forgor password (positive)"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e033f2607d70a382",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751612777,
+        "stop" : 1648751619613,
+        "duration" : 6836
+      }
+    }, {
+      "uid" : "f13127c9bd68ad62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750947992,
+        "stop" : 1648750954625,
+        "duration" : 6633
+      }
+    }, {
+      "uid" : "fa85d9e6566c57d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750496588,
+        "stop" : 1648750503859,
+        "duration" : 7271
+      }
+    }, {
+      "uid" : "18c3af7adcd262dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747926873,
+        "stop" : 1648747934261,
+        "duration" : 7388
+      }
+    }, {
+      "uid" : "439b0ff6cb76906a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747318732,
+        "stop" : 1648747325830,
+        "duration" : 7098
+      }
+    }, {
+      "uid" : "4bb437d46d573557",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746775857,
+        "stop" : 1648746782682,
+        "duration" : 6825
+      }
+    }, {
+      "uid" : "27d925fc3f909798",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648726973971,
+        "stop" : 1648726980844,
+        "duration" : 6873
+      }
+    }, {
+      "uid" : "460df0e3e4b74e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636606432,
+        "stop" : 1648636613238,
+        "duration" : 6806
+      }
+    }, {
+      "uid" : "c17e2901904618fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636324841,
+        "stop" : 1648636331648,
+        "duration" : 6807
+      }
+    }, {
+      "uid" : "b236116c890ab3b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636054146,
+        "stop" : 1648636060801,
+        "duration" : 6655
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "3e538e2a775cc44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648636606432,
+          "stop" : 1648636613238,
+          "duration" : 6806
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "80aedecf49726ab0.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
