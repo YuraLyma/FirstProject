@@ -1,0 +1,102 @@
+{
+  "uid" : "388a91da7a935d64",
+  "name" : "Sign in on GitHub",
+  "fullName" : "GitHub site.Sign in on GitHub",
+  "historyId" : "e9552daa235d5a6ac4bf05c20ef27b46",
+  "time" : {
+    "start" : 1648636653712,
+    "stop" : 1648636659135,
+    "duration" : 5423
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sign in on GitHub"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d09ec36710b7e076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636620488,
+        "stop" : 1648636627493,
+        "duration" : 7005
+      }
+    }, {
+      "uid" : "b4ae8c8369f70ce3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636363824,
+        "stop" : 1648636368259,
+        "duration" : 4435
+      }
+    }, {
+      "uid" : "d047916e6c52f680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636338954,
+        "stop" : 1648636345492,
+        "duration" : 6538
+      }
+    }, {
+      "uid" : "1e1d89f438dae984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636092823,
+        "stop" : 1648636097703,
+        "duration" : 4880
+      }
+    }, {
+      "uid" : "90aa673145330bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636068194,
+        "stop" : 1648636074728,
+        "duration" : 6534
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "388a91da7a935d64.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

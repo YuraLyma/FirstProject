@@ -1,0 +1,146 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648747773117' stop='1648747868186'>
+    <name>webdriver.io page</name>
+    <title>webdriver.io page</title>
+    <test-cases>
+        <test-case start='1648747773119' status='passed' stop='1648747782758'>
+            <name>API -> Search -- Task 1</name>
+            <title>API -> Search -- Task 1</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1648747782759' status='passed' stop='1648747787093'>
+            <name>API -> Docs -- Task 2</name>
+            <title>API -> Docs -- Task 2</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5709854d-3282-407c-8b2f-b3b41066cd34-attachment.png' type='image/png' size='3732'/>
+            </attachments>
+        </test-case>
+        <test-case start='1648747787094' status='passed' stop='1648747792540'>
+            <name>Test suite -- Task 5 / Test case 1</name>
+            <title>Test suite -- Task 5 / Test case 1</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1648747792541' status='passed' stop='1648747795979'>
+            <name>Test suite -- Task 5 / Test case 2</name>
+            <title>Test suite -- Task 5 / Test case 2</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1648747795980' status='passed' stop='1648747798541'>
+            <name>Test suite -- Task 5 / Test case 3</name>
+            <title>Test suite -- Task 5 / Test case 3</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1648747798541' status='broken' stop='1648747799714'>
+            <name>Test suite -- Task 5 / Test case 4</name>
+            <title>Test suite -- Task 5 / Test case 4</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element not interactable
+                  (Session info: chrome=99.0.4844.84)</message>
+                <stack-trace>element not interactable: element not interactable
+                  (Session info: chrome=99.0.4844.84)
+                    at getErrorFromResponseBody (C:\Users\y\Desktop\FirstProject\node_modules\webdriver\build\utils.js:197:12)
+                    at NodeJSRequest._request (C:\Users\y\Desktop\FirstProject\node_modules\webdriver\build\request\index.js:158:60)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Element.wrapCommandFn (C:\Users\y\Desktop\FirstProject\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.wrapCommandFn (C:\Users\y\Desktop\FirstProject\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\y\Desktop\FirstProject\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (C:\Users\y\Desktop\FirstProject\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.wrapCommandFn (C:\Users\y\Desktop\FirstProject\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\y\Desktop\FirstProject\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (C:\Users\y\Desktop\FirstProject\node_modules\@wdio\utils\build\shim.js:137:29)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1648747799715' status='broken' stop='1648747859739'>
+            <name>Test suite -- Task 5 / Test case 5</name>
+            <title>Test suite -- Task 5 / Test case 5</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timeout of 60000ms exceeded. The execution in the test "webdriver.io page Test suite -- Task 5 / Test case 5" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\Users\y\Desktop\FirstProject\test\specs\example.e2e.spec.js)</message>
+                <stack-trace>Error: Timeout of 60000ms exceeded. The execution in the test "webdriver.io page Test suite -- Task 5 / Test case 5" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\Users\y\Desktop\FirstProject\test\specs\example.e2e.spec.js)
+                    at createTimeoutError (C:\Users\y\Desktop\FirstProject\node_modules\mocha\lib\errors.js:498:15)
+                    at Test.Runnable._timeoutError (C:\Users\y\Desktop\FirstProject\node_modules\mocha\lib\runnable.js:431:10)
+                    at Timeout.&lt;anonymous> (C:\Users\y\Desktop\FirstProject\node_modules\mocha\lib\runnable.js:246:24)
+                    at listOnTimeout (node:internal/timers:559:17)
+                    at processTimers (node:internal/timers:502:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1648747859740' status='passed' stop='1648747868182'>
+            <name>PageObjects -- Task 8-9</name>
+            <title>PageObjects -- Task 8-9</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

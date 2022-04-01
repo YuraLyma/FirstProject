@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648726973969' stop='1648726985060'>
+    <name>GitHub site</name>
+    <title>GitHub site</title>
+    <test-cases>
+        <test-case start='1648726973971' status='passed' stop='1648726980844'>
+            <name>Forgor password (positive)</name>
+            <title>Forgor password (positive)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0870f6ca-5def-45f0-af54-85bafd8af02f-attachment.png' type='image/png' size='30801'/>
+            </attachments>
+        </test-case>
+        <test-case start='1648726980845' status='passed' stop='1648726985057'>
+            <name>Forgor password (negative)</name>
+            <title>Forgor password (negative)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7d6a489a-3c58-4dce-9c31-b95c3b2a32a2-attachment.png' type='image/png' size='30143'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

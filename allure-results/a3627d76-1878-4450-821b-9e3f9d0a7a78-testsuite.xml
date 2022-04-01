@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648751573432' stop='1648751589898'>
+    <name>GitHub site</name>
+    <title>GitHub site</title>
+    <test-cases>
+        <test-case start='1648751573432' status='passed' stop='1648751582515'>
+            <name>Registration (sign up, body) on GitHub (negative)</name>
+            <title>Registration (sign up, body) on GitHub (negative)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ded04e51-62a0-449e-a243-a3ec77eaf145-attachment.png' type='image/png' size='130134'/>
+            </attachments>
+        </test-case>
+        <test-case start='1648751582516' status='passed' stop='1648751589896'>
+            <name>Registration (sign up, body) on GitHub (positive)</name>
+            <title>Registration (sign up, body) on GitHub (positive)</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0642deb6-9c13-4acf-a05d-cc007530b98f-attachment.png' type='image/png' size='124724'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

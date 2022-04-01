@@ -1,0 +1,166 @@
+{
+  "uid" : "e31a6645d5bc904b",
+  "name" : "Sign in on GitHub",
+  "fullName" : "GitHub site.Sign in on GitHub",
+  "historyId" : "e9552daa235d5a6ac4bf05c20ef27b46",
+  "time" : {
+    "start" : 1648751651147,
+    "stop" : 1648751656680,
+    "duration" : 5533
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sign in on GitHub"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8ab9fa93f09b39c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751626413,
+        "stop" : 1648751633186,
+        "duration" : 6773
+      }
+    }, {
+      "uid" : "e64cc0c835e9f35a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750985686,
+        "stop" : 1648750990586,
+        "duration" : 4900
+      }
+    }, {
+      "uid" : "c3070bf1e995db3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750961426,
+        "stop" : 1648750967687,
+        "duration" : 6261
+      }
+    }, {
+      "uid" : "718c0fd3ef7ecec9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750537115,
+        "stop" : 1648750541833,
+        "duration" : 4718
+      }
+    }, {
+      "uid" : "2ca225e95ddf116c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750512053,
+        "stop" : 1648750518687,
+        "duration" : 6634
+      }
+    }, {
+      "uid" : "85d19931c5a986f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747969093,
+        "stop" : 1648747974441,
+        "duration" : 5348
+      }
+    }, {
+      "uid" : "50c71d40d80dac9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747940960,
+        "stop" : 1648747947843,
+        "duration" : 6883
+      }
+    }, {
+      "uid" : "14de30a7b827196",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747357633,
+        "stop" : 1648747362977,
+        "duration" : 5344
+      }
+    }, {
+      "uid" : "3f8f3a2b9ce8a8cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747332369,
+        "stop" : 1648747339262,
+        "duration" : 6893
+      }
+    }, {
+      "uid" : "46a4a311240e73b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746816198,
+        "stop" : 1648746820764,
+        "duration" : 4566
+      }
+    }, {
+      "uid" : "479d5b30b60f3a26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746790329,
+        "stop" : 1648746797306,
+        "duration" : 6977
+      }
+    }, {
+      "uid" : "e91a5b71d9925824",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648727014791,
+        "stop" : 1648727020080,
+        "duration" : 5289
+      }
+    }, {
+      "uid" : "88774fe23d7ec348",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648726988541,
+        "stop" : 1648726995375,
+        "duration" : 6834
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e31a6645d5bc904b.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

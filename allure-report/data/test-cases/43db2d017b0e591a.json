@@ -1,0 +1,84 @@
+{
+  "uid" : "43db2d017b0e591a",
+  "name" : "Pricing plans",
+  "fullName" : "GitHub site.Pricing plans",
+  "historyId" : "e3e2ea9f08bb4402acfbe9813897b667",
+  "time" : {
+    "start" : 1648636661988,
+    "stop" : 1648636665731,
+    "duration" : 3743
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not interactable\n                  (Session info: chrome=99.0.4844.84)",
+  "statusTrace" : "element not interactable: element not interactable\n                  (Session info: chrome=99.0.4844.84)\n                    at getErrorFromResponseBody (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriver\\build\\request\\index.js:158:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Pricing plans"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a2a6c10e4f7dcdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636371743,
+        "stop" : 1648636378477,
+        "duration" : 6734
+      }
+    }, {
+      "uid" : "95b8ab57d5eeff33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636100967,
+        "stop" : 1648636108086,
+        "duration" : 7119
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "43db2d017b0e591a.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

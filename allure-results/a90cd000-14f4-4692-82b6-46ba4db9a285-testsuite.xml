@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648636077857' stop='1648636089206'>
+    <name>GitHub site</name>
+    <title>GitHub site</title>
+    <test-cases>
+        <test-case start='1648636077858' status='passed' stop='1648636089204'>
+            <name>Registration (sign up, header) on GitHub</name>
+            <title>Registration (sign up, header) on GitHub</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-8'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ab6f6016-f2ac-4028-a52e-c9801830494f-attachment.png' type='image/png' size='142865'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

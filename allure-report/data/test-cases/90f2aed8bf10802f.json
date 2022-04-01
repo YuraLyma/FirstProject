@@ -1,0 +1,70 @@
+{
+  "uid" : "90f2aed8bf10802f",
+  "name" : "PageObjects -- Task 8-9",
+  "fullName" : "webdriver.io page.PageObjects -- Task 8-9",
+  "historyId" : "615d230ea088b7b9334cbe900cbc7018",
+  "time" : {
+    "start" : 1648747264717,
+    "stop" : 1648747264717,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "PageObjects -- Task 8-9"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7158c496c3299128",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1648746714629,
+        "stop" : 1648746714629,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4eecf94e30f0e69",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1648726916917,
+        "stop" : 1648726916917,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90f2aed8bf10802f.json",
+  "parameterValues" : [ ]
+}

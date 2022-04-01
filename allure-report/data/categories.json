@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element not interactable\n                  (Session info: chrome=99.0.4844.84)",
+      "children" : [ {
+        "name" : "Pricing plans",
+        "uid" : "43db2d017b0e591a",
+        "parentUid" : "702c70c56d67c6edfa4d7d2ae845ce42",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648636661988,
+          "stop" : 1648636665731,
+          "duration" : 3743
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-99.0.4844.84" ]
+      }, {
+        "name" : "Eplore - topics",
+        "uid" : "beb87dda6a545f63",
+        "parentUid" : "702c70c56d67c6edfa4d7d2ae845ce42",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648636680078,
+          "stop" : 1648636683629,
+          "duration" : 3551
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-99.0.4844.84" ]
+      } ],
+      "uid" : "702c70c56d67c6edfa4d7d2ae845ce42"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

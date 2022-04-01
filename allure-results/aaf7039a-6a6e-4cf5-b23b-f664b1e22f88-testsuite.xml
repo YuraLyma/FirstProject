@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648746824345' stop='1648746836190'>
+    <name>GitHub site</name>
+    <title>GitHub site</title>
+    <test-cases>
+        <test-case start='1648746824346' status='passed' stop='1648746836189'>
+            <name>Pricing plans</name>
+            <title>Pricing plans</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-10'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.84'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a79e58c4-163b-4523-82a8-582b8fc03b58-attachment.png' type='image/png' size='39161'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
