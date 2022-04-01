@@ -25,7 +25,7 @@ describe('webdriver.io page', () => {
         await browser.pause(5000);
     });
 
-    xit('API -> Docs -- Task 2', async () => {
+    it('API -> Docs -- Task 2', async () => {
         await browser.url('https://webdriver.io/docs/api/');
 
         const jsonApiProtocol = await $('//*[text()="JSONWire protocol"]');
@@ -61,7 +61,7 @@ describe('webdriver.io page', () => {
         console.log(`Blog isFocused? - ${await blog.isFocused()}`);
     });
 
-    xit('Test suite -- Task 5 / Test case 1', async () => {
+    it('Test suite -- Task 5 / Test case 1', async () => {
         await browser.url('https://github.com/');
 
         const searchInputField = await $('//form[@class="js-site-search-form"]//input[contains(@class, "form-control")]');
@@ -72,7 +72,7 @@ describe('webdriver.io page', () => {
         await browser.keys('Enter');
     });
 
-    xit('Test suite -- Task 5 / Test case 2', async () => {
+    it('Test suite -- Task 5 / Test case 2', async () => {
         await browser.url('https://github.com/');
 
         const userEmail = await $('#user_email');
@@ -86,7 +86,7 @@ describe('webdriver.io page', () => {
         await signUpForGithub.click();
     });
 
-    xit('Test suite -- Task 5 / Test case 3', async () => {
+    it('Test suite -- Task 5 / Test case 3', async () => {
         await browser.url('https://github.com/');
         
         const docs = await $('//a[@class="Link--secondary" and contains(text(), "Docs")]');
@@ -101,7 +101,7 @@ describe('webdriver.io page', () => {
         await spanish.click();
     });
 
-    xit('Test suite -- Task 5 / Test case 4', async () => {
+    it('Test suite -- Task 5 / Test case 4', async () => {
         await browser.url('https://github.com/');
         
         const product = await $('//summary[contains(text(), "Product")]');
@@ -116,7 +116,7 @@ describe('webdriver.io page', () => {
         await getStartedWithActions.click();
     });
 
-    xit('Test suite -- Task 5 / Test case 5', async () => {
+    it('Test suite -- Task 5 / Test case 5', async () => {
         await browser.url('https://github.com/');
         
         const twitter = await $('//footer//span[contains(text(), "GitHub on Twitter")]//parent::a');
@@ -125,7 +125,7 @@ describe('webdriver.io page', () => {
         await twitter.click();
     });
 
-    xit('PageObjects -- Task 8-9', async () => {
+    it('PageObjects -- Task 8-9', async () => {
         await browser.url('https://webdriver.io/');
         
         await mainPage.clickDocsLink();
