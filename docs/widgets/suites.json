@@ -1,17 +1,6 @@
 {
   "total" : 4,
   "items" : [ {
-    "uid" : "2fcbcc86206d6d43e6bff2a6766f00c1",
-    "name" : "GitHub site",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 7,
-      "skipped" : 0,
-      "passed" : 15,
-      "unknown" : 0,
-      "total" : 22
-    }
-  }, {
     "uid" : "601e7f3c0a9c957fa7f229ca6a567c98",
     "name" : "webdriver.io page",
     "statistic" : {
@@ -21,6 +10,17 @@
       "passed" : 8,
       "unknown" : 0,
       "total" : 16
+    }
+  }, {
+    "uid" : "2fcbcc86206d6d43e6bff2a6766f00c1",
+    "name" : "GitHub site",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 22,
+      "unknown" : 0,
+      "total" : 22
     }
   }, {
     "uid" : "3572e55a3c91558293db3f5dbc71c3c4",

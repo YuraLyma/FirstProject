@@ -1,0 +1,62 @@
+{
+  "uid" : "2251d07d90cd3589",
+  "name" : "addValue test",
+  "fullName" : "addValue method Test.addValue test",
+  "historyId" : "a07bcf992220166e0b4f657eae7f2929",
+  "time" : {
+    "start" : 1648808233249,
+    "stop" : 1648808239059,
+    "duration" : 5810
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "addValue method Test"
+  }, {
+    "name" : "testClass",
+    "value" : "addValue method Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "addValue test"
+  }, {
+    "name" : "package",
+    "value" : "addValue method Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2251d07d90cd3589.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}
