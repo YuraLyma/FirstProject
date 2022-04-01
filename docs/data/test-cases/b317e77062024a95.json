@@ -1,0 +1,102 @@
+{
+  "uid" : "b317e77062024a95",
+  "name" : "check Email",
+  "fullName" : "api request from wdio .check Email",
+  "historyId" : "d079be7a3c4b19a91291024010c0a56f",
+  "time" : {
+    "start" : 1648752769321,
+    "stop" : 1648752769981,
+    "duration" : 660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-13"
+  }, {
+    "name" : "suite",
+    "value" : "api request from wdio "
+  }, {
+    "name" : "testClass",
+    "value" : "api request from wdio "
+  }, {
+    "name" : "testMethod",
+    "value" : "check Email"
+  }, {
+    "name" : "package",
+    "value" : "api request from wdio "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "892fbc494ca265ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751682501,
+        "stop" : 1648751683164,
+        "duration" : 663
+      }
+    }, {
+      "uid" : "6d06952e0604ce03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751020864,
+        "stop" : 1648751021630,
+        "duration" : 766
+      }
+    }, {
+      "uid" : "1b7082f48cdc12e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750569496,
+        "stop" : 1648750570141,
+        "duration" : 645
+      }
+    }, {
+      "uid" : "4aa1546fddd7c204",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648748017624,
+        "stop" : 1648748018266,
+        "duration" : 642
+      }
+    }, {
+      "uid" : "654b77ee08f8fcb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747403047,
+        "stop" : 1648747403735,
+        "duration" : 688
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b317e77062024a95.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

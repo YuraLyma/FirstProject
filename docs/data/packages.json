@@ -4,41 +4,7 @@
     "name" : "webdriver.io page",
     "children" : [ {
       "name" : "Test suite -- Task 5 / Test case 2",
-      "uid" : "cfa7f1f4f353b019",
-      "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
-      "status" : "skipped",
-      "time" : {
-        "start" : 1648746714628,
-        "stop" : 1648746714628,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 4,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Test suite -- Task 5 / Test case 1",
-      "uid" : "9e17b3f4bf2d2c47",
-      "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
-      "status" : "skipped",
-      "time" : {
-        "start" : 1648746714628,
-        "stop" : 1648746714628,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 4,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "API -> Docs -- Task 2",
-      "uid" : "1a9a12bda109089e",
+      "uid" : "487cc1da830d30ac",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "skipped",
       "time" : {
@@ -55,7 +21,7 @@
       "parameters" : [ ]
     }, {
       "name" : "Test suite -- Task 5 / Test case 3",
-      "uid" : "ff482a353867414d",
+      "uid" : "179538528622d8ea",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "skipped",
       "time" : {
@@ -71,8 +37,42 @@
       "retriesStatusChange" : false,
       "parameters" : [ ]
     }, {
-      "name" : "Test suite -- Task 5 / Test case 4",
-      "uid" : "41ccbcce0ddf3d26",
+      "name" : "API -> Docs -- Task 2",
+      "uid" : "59bd19c2b883f458",
+      "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1648746714628,
+        "stop" : 1648746714628,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test suite -- Task 5 / Test case 1",
+      "uid" : "58ac269dbc6076a",
+      "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1648746714628,
+        "stop" : 1648746714628,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test suite -- Task 5 / Test case 5",
+      "uid" : "fcc003ba1395019f",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "skipped",
       "time" : {
@@ -88,8 +88,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ ]
     }, {
-      "name" : "Test suite -- Task 5 / Test case 5",
-      "uid" : "3be31d8dad0d93b1",
+      "name" : "Test suite -- Task 5 / Test case 4",
+      "uid" : "56dd46da78289915",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "skipped",
       "time" : {
@@ -106,7 +106,7 @@
       "parameters" : [ ]
     }, {
       "name" : "PageObjects -- Task 8-9",
-      "uid" : "299536fd99dc0053",
+      "uid" : "e6541c7e4380753a",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "skipped",
       "time" : {
@@ -123,7 +123,7 @@
       "parameters" : [ ]
     }, {
       "name" : "API -> Search -- Task 1",
-      "uid" : "e7d2c9eba65966ff",
+      "uid" : "ac43085049949a60",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "passed",
       "time" : {
@@ -140,7 +140,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "API -> Docs -- Task 2",
-      "uid" : "fd3be9895e3caea4",
+      "uid" : "476a18c85612772f",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "passed",
       "time" : {
@@ -157,7 +157,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Test suite -- Task 5 / Test case 1",
-      "uid" : "76eb6f53761d8f77",
+      "uid" : "2d1d9abe8a9bc51c",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "passed",
       "time" : {
@@ -174,7 +174,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Test suite -- Task 5 / Test case 2",
-      "uid" : "9a52e695209a1586",
+      "uid" : "3ac785904da321fd",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "passed",
       "time" : {
@@ -191,7 +191,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Test suite -- Task 5 / Test case 3",
-      "uid" : "aa544ab2152ba424",
+      "uid" : "1e8e9891c31c9b65",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "passed",
       "time" : {
@@ -208,7 +208,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Test suite -- Task 5 / Test case 4",
-      "uid" : "392a79bd4f382a4",
+      "uid" : "312f6214376fdfba",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "broken",
       "time" : {
@@ -225,7 +225,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Test suite -- Task 5 / Test case 5",
-      "uid" : "4ffb6cf4ceaaba75",
+      "uid" : "376b373e60043945",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "passed",
       "time" : {
@@ -242,7 +242,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "PageObjects -- Task 8-9",
-      "uid" : "a1a8561c68caceb6",
+      "uid" : "7502e6b7fff02f60",
       "parentUid" : "4f7d17744ecdbd5cba658ae19edb9617",
       "status" : "passed",
       "time" : {
@@ -263,7 +263,7 @@
     "name" : "addValue method Test",
     "children" : [ {
       "name" : "addValue test",
-      "uid" : "319ab76567fb47ee",
+      "uid" : "2e9cf476d87d4e4b",
       "parentUid" : "c67c0e4765edb1fc98e78abba44886d4",
       "status" : "passed",
       "time" : {
@@ -284,7 +284,7 @@
     "name" : "GitHub site",
     "children" : [ {
       "name" : "Registration (sign up, body) on GitHub (negative)",
-      "uid" : "babd11a0afc372ff",
+      "uid" : "d4b18eb71640468d",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -301,7 +301,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Registration (sign up, body) on GitHub (positive)",
-      "uid" : "2f7c890628012371",
+      "uid" : "dc50d1498d8e0cc6",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -318,7 +318,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Tpe to console log careers",
-      "uid" : "9a8d380264f7ab94",
+      "uid" : "57b923937dcbcc55",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -335,7 +335,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Enterpriese cloud/server",
-      "uid" : "17ad483a5e521eba",
+      "uid" : "c54f1c24573c61cf",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -352,7 +352,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Forgor password (positive)",
-      "uid" : "480873f0a653c459",
+      "uid" : "6cb918472af7e457",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -369,7 +369,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Forgor password (negative)",
-      "uid" : "e70f485f7a7d2617",
+      "uid" : "c9f6fbb08777b469",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -386,7 +386,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Registration (sign up, header) on GitHub",
-      "uid" : "d21bf0f4b40a4bf6",
+      "uid" : "a100323f958c3d42",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -403,7 +403,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Sign in on GitHub",
-      "uid" : "2bb042a3784db011",
+      "uid" : "374ad52b4d113adf",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -420,7 +420,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Pricing plans",
-      "uid" : "dfadea2b9fa1ec5e",
+      "uid" : "b611d7579c783f7a",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -437,7 +437,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Search field",
-      "uid" : "60578931e1dd20cd",
+      "uid" : "187c99e63043d155",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -454,7 +454,7 @@
       "parameters" : [ "chrome-99.0.4844.84" ]
     }, {
       "name" : "Eplore - topics",
-      "uid" : "f5df99ea72274e75",
+      "uid" : "c499b747a7dbf9a9",
       "parentUid" : "d79a4f8f51258d5d288574d28e261ebb",
       "status" : "passed",
       "time" : {
@@ -475,7 +475,7 @@
     "name" : "api request from wdio ",
     "children" : [ {
       "name" : "check Email",
-      "uid" : "bd17149b4d2cfe37",
+      "uid" : "b317e77062024a95",
       "parentUid" : "47c0736492bd4b6bdda0578974c4ec12",
       "status" : "passed",
       "time" : {
