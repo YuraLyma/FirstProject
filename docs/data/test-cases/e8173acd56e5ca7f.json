@@ -1,0 +1,50 @@
+{
+  "uid" : "e8173acd56e5ca7f",
+  "name" : "Test suite -- Task 5 / Test case 2",
+  "fullName" : "webdriver.io page.Test suite -- Task 5 / Test case 2",
+  "historyId" : "f30057c2c1bcbab9e6624e12b71615af",
+  "time" : {
+    "start" : 1648726916916,
+    "stop" : 1648726916916,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test suite -- Task 5 / Test case 2"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8173acd56e5ca7f.json",
+  "parameterValues" : [ ]
+}

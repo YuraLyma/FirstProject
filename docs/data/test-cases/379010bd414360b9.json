@@ -1,0 +1,177 @@
+{
+  "uid" : "379010bd414360b9",
+  "name" : "Registration (sign up, body) on GitHub (negative)",
+  "fullName" : "GitHub site.Registration (sign up, body) on GitHub (negative)",
+  "historyId" : "4d0ad9f1196108afbded4b8ed2167a59",
+  "time" : {
+    "start" : 1648752586503,
+    "stop" : 1648752602790,
+    "duration" : 16287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c388d081c1c99515",
+      "name" : "Screenshot",
+      "source" : "c388d081c1c99515.png",
+      "type" : "image/png",
+      "size" : 146354
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registration (sign up, body) on GitHub (negative)"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4299c72f0fd6135d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648751573432,
+        "stop" : 1648751582515,
+        "duration" : 9083
+      }
+    }, {
+      "uid" : "e3908cca0bc48dc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750907435,
+        "stop" : 1648750916489,
+        "duration" : 9054
+      }
+    }, {
+      "uid" : "385e42dcbe6609b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750450726,
+        "stop" : 1648750462726,
+        "duration" : 12000
+      }
+    }, {
+      "uid" : "4f73bbdd78495e43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747880866,
+        "stop" : 1648747890103,
+        "duration" : 9237
+      }
+    }, {
+      "uid" : "a13c267bf65c4633",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747278046,
+        "stop" : 1648747287332,
+        "duration" : 9286
+      }
+    }, {
+      "uid" : "ea00eb6b065cd94c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648746728499,
+        "stop" : 1648746737472,
+        "duration" : 8973
+      }
+    }, {
+      "uid" : "e458ae86ec34944b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648726931642,
+        "stop" : 1648726940915,
+        "duration" : 9273
+      }
+    }, {
+      "uid" : "154608499bfc1bca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636567704,
+        "stop" : 1648636576656,
+        "duration" : 8952
+      }
+    }, {
+      "uid" : "14144e4dcaa988d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636285580,
+        "stop" : 1648636294694,
+        "duration" : 9114
+      }
+    }, {
+      "uid" : "660b583cfc5a8b50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648636013584,
+        "stop" : 1648636022898,
+        "duration" : 9314
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "fd1c116bfbcec712",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648636567704,
+          "stop" : 1648636576656,
+          "duration" : 8952
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "379010bd414360b9.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}
