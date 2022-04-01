@@ -1,0 +1,111 @@
+{
+  "uid" : "514c1490ea6d997e",
+  "name" : "Test suite -- Task 5 / Test case 4",
+  "fullName" : "webdriver.io page.Test suite -- Task 5 / Test case 4",
+  "historyId" : "4d7bfc3df742afa8aedd575b35eadec1",
+  "time" : {
+    "start" : 1648752506300,
+    "stop" : 1648752522798,
+    "duration" : 16498
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not interactable\n                  (Session info: headless chrome=99.0.4844.84)",
+  "statusTrace" : "element not interactable: element not interactable\n                  (Session info: headless chrome=99.0.4844.84)\n                    at getErrorFromResponseBody (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriver\\build\\request\\index.js:158:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at async Element.wrapCommandFn (C:\\Users\\y\\Desktop\\FirstProject\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test suite -- Task 5 / Test case 4"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.84"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f1cfd5237b2503d9",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: chrome=99.0.4844.84)",
+      "time" : {
+        "start" : 1648751536290,
+        "stop" : 1648751537504,
+        "duration" : 1214
+      }
+    }, {
+      "uid" : "9a0077578396485b",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: chrome=99.0.4844.84)",
+      "time" : {
+        "start" : 1648750851673,
+        "stop" : 1648750853250,
+        "duration" : 1577
+      }
+    }, {
+      "uid" : "77a17169a8156bab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648750411861,
+        "stop" : 1648750415507,
+        "duration" : 3646
+      }
+    }, {
+      "uid" : "2f0892f469a9ed29",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: chrome=99.0.4844.84)",
+      "time" : {
+        "start" : 1648747798541,
+        "stop" : 1648747799714,
+        "duration" : 1173
+      }
+    }, {
+      "uid" : "ee5a791b8ecfd78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648747213707,
+        "stop" : 1648747217694,
+        "duration" : 3987
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "514c1490ea6d997e.json",
+  "parameterValues" : [ "chrome-99.0.4844.84" ]
+}

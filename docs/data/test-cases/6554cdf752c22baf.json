@@ -1,0 +1,78 @@
+{
+  "uid" : "6554cdf752c22baf",
+  "name" : "Registration (sign up, body) on GitHub (negative)",
+  "fullName" : "GitHub site.Registration (sign up, body) on GitHub (negative)",
+  "historyId" : "561678e138877f6b6fda6d41998383c6",
+  "time" : {
+    "start" : 1648809746292,
+    "stop" : 1648809751377,
+    "duration" : 5085
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d4af0bc381d3b84b",
+      "name" : "Screenshot",
+      "source" : "d4af0bc381d3b84b.png",
+      "type" : "image/png",
+      "size" : 154392
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testClass",
+    "value" : "GitHub site"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registration (sign up, body) on GitHub (negative)"
+  }, {
+    "name" : "package",
+    "value" : "GitHub site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6554cdf752c22baf.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

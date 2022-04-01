@@ -16,9 +16,9 @@
     "name" : "GitHub site",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 22,
+      "passed" : 21,
       "unknown" : 0,
       "total" : 22
     }

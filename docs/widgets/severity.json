@@ -1,395 +1,25 @@
 [ {
-  "uid" : "860e4be0f753aab",
+  "uid" : "1df071562b502372",
+  "name" : "Eplore - topics",
+  "time" : {
+    "start" : 1648809819500,
+    "stop" : 1648809824501,
+    "duration" : 5001
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e68d4b67d703e33d",
   "name" : "Test suite -- Task 5 / Test case 1",
   "time" : {
-    "start" : 1648746714628,
-    "stop" : 1648746714628,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "352f2ef6779da68b",
-  "name" : "Registration (sign up, body) on GitHub (positive)",
-  "time" : {
-    "start" : 1648752602792,
-    "stop" : 1648752617850,
-    "duration" : 15058
+    "start" : 1648752474013,
+    "stop" : 1648752485931,
+    "duration" : 11918
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "656e03fb1ca60efc",
-  "name" : "Test suite -- Task 5 / Test case 5",
-  "time" : {
-    "start" : 1648746714629,
-    "stop" : 1648746714629,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "1a9cc4a97254ed05",
-  "name" : "PageObjects -- Task 8-9",
-  "time" : {
-    "start" : 1648747264717,
-    "stop" : 1648747264717,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "6a063ed80f1ef216",
-  "name" : "API -> Docs -- Task 2",
-  "time" : {
-    "start" : 1648809389507,
-    "stop" : 1648809390809,
-    "duration" : 1302
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7dc1a1f4cc3eab5",
-  "name" : "Enterpriese cloud/server",
-  "time" : {
-    "start" : 1648752628938,
-    "stop" : 1648752639713,
-    "duration" : 10775
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "113913d37b922c80",
-  "name" : "API -> Search -- Task 1",
-  "time" : {
-    "start" : 1648809382504,
-    "stop" : 1648809389507,
-    "duration" : 7003
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e2e672e2055ea184",
-  "name" : "Eplore - topics",
-  "time" : {
-    "start" : 1648809479883,
-    "stop" : 1648809485333,
-    "duration" : 5450
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8178fe37131a172d",
-  "name" : "Eplore - topics",
-  "time" : {
-    "start" : 1648752753930,
-    "stop" : 1648752766933,
-    "duration" : 13003
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "32a3ac79371c3de6",
-  "name" : "Test suite -- Task 5 / Test case 2",
-  "time" : {
-    "start" : 1648752485931,
-    "stop" : 1648752502873,
-    "duration" : 16942
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "975f5b5ea46c55e8",
-  "name" : "Pricing plans",
-  "time" : {
-    "start" : 1648809468355,
-    "stop" : 1648809473020,
-    "duration" : 4665
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a235a358ad16b0c7",
-  "name" : "Enterpriese cloud/server",
-  "time" : {
-    "start" : 1648809428955,
-    "stop" : 1648809432923,
-    "duration" : 3968
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4231130aa42b50f",
-  "name" : "Tpe to console log careers",
-  "time" : {
-    "start" : 1648809425913,
-    "stop" : 1648809428083,
-    "duration" : 2170
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "224fbad523aff161",
-  "name" : "Test suite -- Task 5 / Test case 3",
-  "time" : {
-    "start" : 1648746714628,
-    "stop" : 1648746714628,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "f0dfded094e73d23",
-  "name" : "Search field",
-  "time" : {
-    "start" : 1648809473906,
-    "stop" : 1648809479024,
-    "duration" : 5118
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9c8be9614d2f613e",
-  "name" : "Registration (sign up, header) on GitHub",
-  "time" : {
-    "start" : 1648752667304,
-    "stop" : 1648752680653,
-    "duration" : 13349
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "301a72b519cf8e3",
-  "name" : "Test suite -- Task 5 / Test case 2",
-  "time" : {
-    "start" : 1648746714628,
-    "stop" : 1648746714628,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "cac99fb0500a1a33",
-  "name" : "check Email",
-  "time" : {
-    "start" : 1648752769321,
-    "stop" : 1648752769981,
-    "duration" : 660
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ef0491da9d6ba5d3",
-  "name" : "Search field",
-  "time" : {
-    "start" : 1648752738466,
-    "stop" : 1648752751554,
-    "duration" : 13088
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "19c00eb2665bc4d",
-  "name" : "Registration (sign up, header) on GitHub",
-  "time" : {
-    "start" : 1648809453112,
-    "stop" : 1648809460625,
-    "duration" : 7513
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "53b551171ff02d55",
-  "name" : "Test suite -- Task 5 / Test case 4",
-  "time" : {
-    "start" : 1648752506300,
-    "stop" : 1648752522798,
-    "duration" : 16498
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "6750c52891b2e164",
-  "name" : "Test suite -- Task 5 / Test case 5",
-  "time" : {
-    "start" : 1648752522802,
-    "stop" : 1648752567962,
-    "duration" : 45160
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c2905d608dacc8d8",
-  "name" : "Test suite -- Task 5 / Test case 4",
-  "time" : {
-    "start" : 1648746714629,
-    "stop" : 1648746714629,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "be9214a0a00a7a8e",
-  "name" : "Registration (sign up, body) on GitHub (negative)",
-  "time" : {
-    "start" : 1648809416174,
-    "stop" : 1648809421174,
-    "duration" : 5000
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fd1c825be04631a4",
-  "name" : "API -> Docs -- Task 2",
-  "time" : {
-    "start" : 1648752472044,
-    "stop" : 1648752474012,
-    "duration" : 1968
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d5cde2394781e36b",
-  "name" : "Tpe to console log careers",
-  "time" : {
-    "start" : 1648752620250,
-    "stop" : 1648752626527,
-    "duration" : 6277
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "89c814a87af665cc",
-  "name" : "PageObjects -- Task 8-9",
-  "time" : {
-    "start" : 1648809405734,
-    "stop" : 1648809409895,
-    "duration" : 4161
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "31c01320f2c6b771",
-  "name" : "Sign in on GitHub",
-  "time" : {
-    "start" : 1648752683097,
-    "stop" : 1648752720839,
-    "duration" : 37742
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7e48140bfc5501f6",
-  "name" : "Sign in on GitHub",
-  "time" : {
-    "start" : 1648809461497,
-    "stop" : 1648809467500,
-    "duration" : 6003
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "78963bbe882749d",
-  "name" : "Pricing plans",
-  "time" : {
-    "start" : 1648752723620,
-    "stop" : 1648752736013,
-    "duration" : 12393
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "865449502c1017a9",
-  "name" : "API -> Docs -- Task 2",
-  "time" : {
-    "start" : 1648746714628,
-    "stop" : 1648746714628,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "bc0c328c9a4e7663",
-  "name" : "Forgor password (negative)",
-  "time" : {
-    "start" : 1648809436703,
-    "stop" : 1648809438900,
-    "duration" : 2197
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fe632ff0ce08d36f",
-  "name" : "Registration (sign up, body) on GitHub (negative)",
-  "time" : {
-    "start" : 1648752586503,
-    "stop" : 1648752602790,
-    "duration" : 16287
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a81f6b8a5a36c4ff",
-  "name" : "API -> Search -- Task 1",
-  "time" : {
-    "start" : 1648752464043,
-    "stop" : 1648752472043,
-    "duration" : 8000
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f32229a1d25018e6",
-  "name" : "Forgor password (negative)",
-  "time" : {
-    "start" : 1648752650376,
-    "stop" : 1648752657390,
-    "duration" : 7014
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "372b1a2f04a4f68",
-  "name" : "addValue test",
-  "time" : {
-    "start" : 1648809377691,
-    "stop" : 1648809381527,
-    "duration" : 3836
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "77f2e3700261a37e",
-  "name" : "Test suite -- Task 5 / Test case 3",
-  "time" : {
-    "start" : 1648752502874,
-    "stop" : 1648752506300,
-    "duration" : 3426
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1052e1ab7de48d0d",
-  "name" : "addValue test",
-  "time" : {
-    "start" : 1648752456763,
-    "stop" : 1648752461589,
-    "duration" : 4826
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3b2dbd5f6914da9c",
-  "name" : "PageObjects -- Task 8-9",
-  "time" : {
-    "start" : 1648752567963,
-    "stop" : 1648752572138,
-    "duration" : 4175
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "62f7a60ee08e5637",
+  "uid" : "c45644df1ef1c24c",
   "name" : "Forgor password (positive)",
   "time" : {
     "start" : 1648752641864,
@@ -399,82 +29,452 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7bd8653d0c2e15f0",
+  "uid" : "3393cb6ea26758d1",
+  "name" : "Search field",
+  "time" : {
+    "start" : 1648752738466,
+    "stop" : 1648752751554,
+    "duration" : 13088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40d8c86562dd854d",
+  "name" : "Test suite -- Task 5 / Test case 5",
+  "time" : {
+    "start" : 1648752522802,
+    "stop" : 1648752567962,
+    "duration" : 45160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c0fb7cb203102b2",
+  "name" : "API -> Docs -- Task 2",
+  "time" : {
+    "start" : 1648752472044,
+    "stop" : 1648752474012,
+    "duration" : 1968
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7969d949a6a3868f",
+  "name" : "Test suite -- Task 5 / Test case 3",
+  "time" : {
+    "start" : 1648752502874,
+    "stop" : 1648752506300,
+    "duration" : 3426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4eb1f0e151cc0d6",
+  "name" : "Test suite -- Task 5 / Test case 5",
+  "time" : {
+    "start" : 1648809734694,
+    "stop" : 1648809736542,
+    "duration" : 1848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f75f4b07f00dccc",
+  "name" : "API -> Docs -- Task 2",
+  "time" : {
+    "start" : 1648746714628,
+    "stop" : 1648746714628,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9bfa2f9fbac2d349",
+  "name" : "Registration (sign up, header) on GitHub",
+  "time" : {
+    "start" : 1648809784074,
+    "stop" : 1648809791718,
+    "duration" : 7644
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "865a240bd95fc49b",
+  "name" : "Sign in on GitHub",
+  "time" : {
+    "start" : 1648752683097,
+    "stop" : 1648752720839,
+    "duration" : 37742
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c6cc49207c05e7",
   "name" : "Test suite -- Task 5 / Test case 4",
   "time" : {
-    "start" : 1648809397457,
-    "stop" : 1648809403773,
-    "duration" : 6316
+    "start" : 1648746714629,
+    "stop" : 1648746714629,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "25d6393f98d06f4b",
+  "name" : "Tpe to console log careers",
+  "time" : {
+    "start" : 1648752620250,
+    "stop" : 1648752626527,
+    "duration" : 6277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc7da1685c90da1",
+  "name" : "Test suite -- Task 5 / Test case 3",
+  "time" : {
+    "start" : 1648746714628,
+    "stop" : 1648746714628,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e8ca800b0b3640cc",
+  "name" : "Sign in on GitHub",
+  "time" : {
+    "start" : 1648809792542,
+    "stop" : 1648809800492,
+    "duration" : 7950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6554cdf752c22baf",
+  "name" : "Registration (sign up, body) on GitHub (negative)",
+  "time" : {
+    "start" : 1648809746292,
+    "stop" : 1648809751377,
+    "duration" : 5085
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fd7308767cbc898",
+  "name" : "Test suite -- Task 5 / Test case 2",
+  "time" : {
+    "start" : 1648809726811,
+    "stop" : 1648809728685,
+    "duration" : 1874
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84f324f7c9112b1b",
+  "name" : "Test suite -- Task 5 / Test case 1",
+  "time" : {
+    "start" : 1648746714628,
+    "stop" : 1648746714628,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "12204fc182613a6",
+  "name" : "Forgor password (negative)",
+  "time" : {
+    "start" : 1648752650376,
+    "stop" : 1648752657390,
+    "duration" : 7014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aee18c497cb66adb",
+  "name" : "Search field",
+  "time" : {
+    "start" : 1648809806892,
+    "stop" : 1648809818685,
+    "duration" : 11793
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "79670cb8515a10cf",
-  "name" : "Test suite -- Task 5 / Test case 2",
+  "uid" : "11becd9cc2b9c73d",
+  "name" : "Pricing plans",
   "time" : {
-    "start" : 1648809393688,
-    "stop" : 1648809395753,
-    "duration" : 2065
+    "start" : 1648752723620,
+    "stop" : 1648752736013,
+    "duration" : 12393
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b52bba590677ef27",
-  "name" : "Test suite -- Task 5 / Test case 3",
-  "time" : {
-    "start" : 1648809395753,
-    "stop" : 1648809397457,
-    "duration" : 1704
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ac38d3bb114f70b9",
-  "name" : "Test suite -- Task 5 / Test case 1",
-  "time" : {
-    "start" : 1648809390810,
-    "stop" : 1648809393688,
-    "duration" : 2878
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "640efef61c999766",
+  "uid" : "f51f5d5c2462363",
   "name" : "Registration (sign up, body) on GitHub (positive)",
   "time" : {
-    "start" : 1648809421174,
-    "stop" : 1648809425055,
-    "duration" : 3881
+    "start" : 1648809751377,
+    "stop" : 1648809755222,
+    "duration" : 3845
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d6aa1ca5fc66617",
+  "uid" : "1567f43472f5582c",
+  "name" : "Registration (sign up, body) on GitHub (negative)",
+  "time" : {
+    "start" : 1648752586503,
+    "stop" : 1648752602790,
+    "duration" : 16287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "803e7d05a40681cd",
   "name" : "Forgor password (positive)",
   "time" : {
-    "start" : 1648809433789,
-    "stop" : 1648809436702,
-    "duration" : 2913
+    "start" : 1648809764453,
+    "stop" : 1648809767705,
+    "duration" : 3252
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f0b267ff7e10df3d",
-  "name" : "Test suite -- Task 5 / Test case 5",
+  "uid" : "3e72abc716f0fb28",
+  "name" : "Enterpriese cloud/server",
   "time" : {
-    "start" : 1648809403773,
-    "stop" : 1648809405734,
-    "duration" : 1961
+    "start" : 1648752628938,
+    "stop" : 1648752639713,
+    "duration" : 10775
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5ce66d4d0c6b065e",
+  "uid" : "911c05c94ca3f745",
+  "name" : "Tpe to console log careers",
+  "time" : {
+    "start" : 1648809756049,
+    "stop" : 1648809758239,
+    "duration" : 2190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f30fba85ee3aecd0",
+  "name" : "PageObjects -- Task 8-9",
+  "time" : {
+    "start" : 1648809736542,
+    "stop" : 1648809740001,
+    "duration" : 3459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21b272c266605325",
+  "name" : "Registration (sign up, body) on GitHub (positive)",
+  "time" : {
+    "start" : 1648752602792,
+    "stop" : 1648752617850,
+    "duration" : 15058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e4974b6afb89d1f",
+  "name" : "API -> Docs -- Task 2",
+  "time" : {
+    "start" : 1648809722583,
+    "stop" : 1648809724106,
+    "duration" : 1523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b42ada58c2e2f4b",
+  "name" : "PageObjects -- Task 8-9",
+  "time" : {
+    "start" : 1648752567963,
+    "stop" : 1648752572138,
+    "duration" : 4175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7199f5cfba499a28",
+  "name" : "Test suite -- Task 5 / Test case 4",
+  "time" : {
+    "start" : 1648809730214,
+    "stop" : 1648809734694,
+    "duration" : 4480
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "514c1490ea6d997e",
+  "name" : "Test suite -- Task 5 / Test case 4",
+  "time" : {
+    "start" : 1648752506300,
+    "stop" : 1648752522798,
+    "duration" : 16498
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1bdcd953f39a9bcf",
+  "name" : "addValue test",
+  "time" : {
+    "start" : 1648752456763,
+    "stop" : 1648752461589,
+    "duration" : 4826
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b3f0f02408154ab",
+  "name" : "API -> Search -- Task 1",
+  "time" : {
+    "start" : 1648752464043,
+    "stop" : 1648752472043,
+    "duration" : 8000
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dad105da476c635",
+  "name" : "API -> Search -- Task 1",
+  "time" : {
+    "start" : 1648809715565,
+    "stop" : 1648809722583,
+    "duration" : 7018
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "360d89dbccd4298",
+  "name" : "Eplore - topics",
+  "time" : {
+    "start" : 1648752753930,
+    "stop" : 1648752766933,
+    "duration" : 13003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b923c28d8e21131",
   "name" : "Test suite -- Task 5 / Test case 1",
   "time" : {
-    "start" : 1648752474013,
-    "stop" : 1648752485931,
-    "duration" : 11918
+    "start" : 1648809724107,
+    "stop" : 1648809726811,
+    "duration" : 2704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "693241fda0681cf2",
+  "name" : "Enterpriese cloud/server",
+  "time" : {
+    "start" : 1648809759062,
+    "stop" : 1648809763595,
+    "duration" : 4533
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "627efcaf74eb3800",
+  "name" : "Test suite -- Task 5 / Test case 2",
+  "time" : {
+    "start" : 1648752485931,
+    "stop" : 1648752502873,
+    "duration" : 16942
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6812050be8877631",
+  "name" : "Test suite -- Task 5 / Test case 5",
+  "time" : {
+    "start" : 1648746714629,
+    "stop" : 1648746714629,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "60e3cb05899a6464",
+  "name" : "check Email",
+  "time" : {
+    "start" : 1648752769321,
+    "stop" : 1648752769981,
+    "duration" : 660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27f5349e5c04d936",
+  "name" : "Forgor password (negative)",
+  "time" : {
+    "start" : 1648809767705,
+    "stop" : 1648809769887,
+    "duration" : 2182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9831bb65aec42c25",
+  "name" : "Registration (sign up, header) on GitHub",
+  "time" : {
+    "start" : 1648752667304,
+    "stop" : 1648752680653,
+    "duration" : 13349
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2852ff3cd2f7169",
+  "name" : "Test suite -- Task 5 / Test case 3",
+  "time" : {
+    "start" : 1648809728685,
+    "stop" : 1648809730214,
+    "duration" : 1529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "299b62d662e1a199",
+  "name" : "PageObjects -- Task 8-9",
+  "time" : {
+    "start" : 1648747264717,
+    "stop" : 1648747264717,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f2ddfd221e5975ef",
+  "name" : "Pricing plans",
+  "time" : {
+    "start" : 1648809801333,
+    "stop" : 1648809806038,
+    "duration" : 4705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f31d83130c20eeb",
+  "name" : "Test suite -- Task 5 / Test case 2",
+  "time" : {
+    "start" : 1648746714628,
+    "stop" : 1648746714628,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "37764a791cfe92af",
+  "name" : "addValue test",
+  "time" : {
+    "start" : 1648809713009,
+    "stop" : 1648809714683,
+    "duration" : 1674
   },
   "status" : "passed",
   "severity" : "normal"
